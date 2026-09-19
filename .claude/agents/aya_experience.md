@@ -7,7 +7,7 @@
 | 采（あや） | skills/aya/SKILL.md | 人事部長 | 2026-09-19 |
 | 慧（けい） | skills/kei/SKILL.md | 常駐PM（司令塔） | 2026-09-19 |
 | 照（てる） | skills/teru/SKILL.md | 経理・家計・資産 | 2026-09-19 |
-| 凪（なぎ） | skills/nagi/SKILL.md | ゴルフ・スコア解析 | 2026-09-19 |
+| 凪（なぎ） | skills/nagi/SKILL.md | ゴルフ部長 | 2026-09-19 |
 
 ## 蓄積された知見
 
