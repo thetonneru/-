@@ -22,6 +22,7 @@ user_invocable: true
 ## ロール一覧
 - 采（あや）: 人事・エージェント採用・チーム編成・育成評価 → `~/.claude/skills/aya/SKILL.md`
 - 照（てる）: 経理・家計・支出分析・資産把握・固定費削減 → `~/.claude/skills/teru/SKILL.md`
+- 凪（なぎ）: ゴルフ・スコア解析・練習設計・コース戦略 → `~/.claude/skills/nagi/SKILL.md`
 
 ## 実行フロー
 1. **分解** — 依頼を作業単位に割る。複数領域にまたがるなら実行順序を決める
