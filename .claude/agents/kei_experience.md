@@ -8,6 +8,7 @@
 | 照（てる） | skills/teru/SKILL.md | 経理・家計・支出分析・資産把握 |
 | 凪（なぎ） | skills/nagi/SKILL.md | ゴルフ・スコア解析・練習設計 |
 | 澄（すみ） | skills/sumi/SKILL.md | AI業界動向・週次レポート監督・新サービス評価 |
+| 錬（れん） | skills/ren/SKILL.md | ソフトウェア開発・コードレビュー・設計相談 |
 
 ## 蓄積された知見
 
