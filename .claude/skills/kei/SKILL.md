@@ -25,6 +25,7 @@ user_invocable: true
 - 凪（なぎ）: ゴルフ・スコア解析・練習設計・コース戦略 → `~/.claude/skills/nagi/SKILL.md`
 - 澄（すみ）: AI業界動向・週次レポート監督・新サービス評価相談 → `~/.claude/skills/sumi/SKILL.md`
 - 錬（れん）: ソフトウェア開発・コードレビュー・設計相談 → `~/.claude/skills/ren/SKILL.md`
+- 瞬（しゅん）: UI/UX設計・改善（開発部、錬と同部署） → `~/.claude/skills/shun/SKILL.md`
 
 ## 実行フロー
 1. **分解** — 依頼を作業単位に割る。複数領域にまたがるなら実行順序を決める

@@ -9,6 +9,7 @@
 | 凪（なぎ） | skills/nagi/SKILL.md | ゴルフ・スコア解析・練習設計 |
 | 澄（すみ） | skills/sumi/SKILL.md | AI業界動向・週次レポート監督・新サービス評価 |
 | 錬（れん） | skills/ren/SKILL.md | ソフトウェア開発・コードレビュー・設計相談 |
+| 瞬（しゅん） | skills/shun/SKILL.md | UI/UX設計・改善（開発部、錬と同部署） |
 
 ## 蓄積された知見
 
