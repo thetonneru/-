@@ -6,11 +6,11 @@
 |---|---|---|
 | 采（あや） | skills/aya/SKILL.md | 人事・採用・チーム編成・育成評価 |
 | 照（てる） | skills/teru/SKILL.md | 経理・家計・支出分析・資産把握 |
-| 凪（なぎ） | skills/nagi/SKILL.md | ゴルフ・スコア解析・練習設計 |
+| 凪（なぎ） | skills/nagi/SKILL.md | ゴルフ・スコア解析・練習設計（趣味部ゴルフ課） |
 | 澄（すみ） | skills/sumi/SKILL.md | AI業界動向・週次レポート監督・新サービス評価 |
 | 錬（れん） | skills/ren/SKILL.md | ソフトウェア開発・コードレビュー・設計相談 |
 | 瞬（しゅん） | skills/shun/SKILL.md | UI/UX設計・改善（開発部、錬と同部署） |
-| 奏（かなで） | skills/kanade/SKILL.md | ギターの練習設計・上達支援・スコアの覚え方 |
+| 奏（かなで） | skills/kanade/SKILL.md | ギターの練習設計・上達支援・スコアの覚え方（趣味部ギター課） |
 
 ## 蓄積された知見
 

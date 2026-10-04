@@ -22,11 +22,11 @@ user_invocable: true
 ## ロール一覧
 - 采（あや）: 人事・エージェント採用・チーム編成・育成評価 → `~/.claude/skills/aya/SKILL.md`
 - 照（てる）: 経理・家計・支出分析・資産把握・固定費削減 → `~/.claude/skills/teru/SKILL.md`
-- 凪（なぎ）: ゴルフ・スコア解析・練習設計・コース戦略 → `~/.claude/skills/nagi/SKILL.md`
+- 凪（なぎ）: ゴルフ・スコア解析・練習設計・コース戦略（趣味部ゴルフ課） → `~/.claude/skills/nagi/SKILL.md`
 - 澄（すみ）: AI業界動向・週次レポート監督・新サービス評価相談 → `~/.claude/skills/sumi/SKILL.md`
 - 錬（れん）: ソフトウェア開発・コードレビュー・設計相談 → `~/.claude/skills/ren/SKILL.md`
 - 瞬（しゅん）: UI/UX設計・改善（開発部、錬と同部署） → `~/.claude/skills/shun/SKILL.md`
-- 奏（かなで）: ギターの練習設計・上達支援・スコアの覚え方 → `~/.claude/skills/kanade/SKILL.md`
+- 奏（かなで）: ギターの練習設計・上達支援・スコアの覚え方（趣味部ギター課） → `~/.claude/skills/kanade/SKILL.md`
 
 ## 実行フロー
 1. **分解** — 依頼を作業単位に割る。複数領域にまたがるなら実行順序を決める
