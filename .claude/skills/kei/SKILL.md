@@ -25,7 +25,7 @@ user_invocable: true
 - 凪（なぎ）: ゴルフ・スコア解析・練習設計・コース戦略（趣味部長 兼 ゴルフ課長） → `~/.claude/skills/nagi/SKILL.md`
 - 澄（すみ）: AI業界動向・週次レポート監督・新サービス評価相談 → `~/.claude/skills/sumi/SKILL.md`
 - 錬（れん）: ソフトウェア開発・コードレビュー・設計相談 → `~/.claude/skills/ren/SKILL.md`
-- 瞬（しゅん）: UI/UX設計・改善（開発部、錬と同部署） → `~/.claude/skills/shun/SKILL.md`
+- 瞬（しゅん）: UI/UX設計・改善（開発部、錬と同部署）。**開発部に振った案件には必ず立ち会わせる** → `~/.claude/skills/shun/SKILL.md`
 - 奏（かなで）: ギターの練習設計・上達支援・スコアの覚え方（趣味部ギター課） → `~/.claude/skills/kanade/SKILL.md`
 - 冴（さえ）: 全ロールのアウトプットの批判的レビュー・検証（品質保証部長） → `~/.claude/skills/sae/SKILL.md`
 
